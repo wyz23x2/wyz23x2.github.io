@@ -4,7 +4,7 @@
 #### _Release date: 2020-12-12_
 - Added ``relationlist.ver``.
 - Deprecated ``generator(func=True)``. Use the new ``generator_func()`` instead.
-- We switched to a new license.
+- We switched to [a new license](../license).
   
 ### 1.1.1
 #### _Release date: 2020-7-20_
