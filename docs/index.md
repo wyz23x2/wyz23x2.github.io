@@ -18,3 +18,5 @@ permalink: /docs/index.html
 ### &emsp;[3. API Reference](apiref)
 ### &emsp;[4. Changelog](changelog)
 ### &emsp;[5. License](license)
+  
+[← Home](/)
