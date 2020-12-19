@@ -10,6 +10,15 @@ permalink: /docs/changelog/index.html
 - Deprecated ``generator(func=True)``. Use the new ``generator_func()`` instead.
 - We switched to [a new license](../license).
   
+<!--[if !IE]><!-->
+<details>
+  <summary><h2>1.2.0</h2></summary>
+  <h4><i>Release date: 2020-12-12</i></h4>
+  <h4 style="color:yellow;background:red">WARNING: THIS VERSION HAS SERIOUS BUGS! <i>NEVER</i> USE!</h4>
+  v1.2.1 is a hotfix. Changes are listed above.
+</details>
+<!--><![endif]-->
+  
 ## 1.1.1
 #### _Release date: 2020-7-20_
 - Fixed ``related()`` to use the new ``get_relation()`` instead of the old ``get_relate()``.
