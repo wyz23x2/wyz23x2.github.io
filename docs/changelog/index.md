@@ -4,20 +4,11 @@ permalink: /docs/changelog/index.html
 
 # Changelog
   
-## 1.2.1
+## 1.2.0 & 1.2.1
 #### _Release date: 2020-12-12_
 - Added ``relationlist.ver``.
 - Deprecated ``generator(func=True)``. Use the new ``generator_func()`` instead.
 - We switched to [a new license](../license).
-  
-<!--[if !IE]><!-->
-<details>
-  <summary>1.2.0</summary>
-  <h4><i>Release date: 2020-12-12</i></h4>
-  <h4 style="color:#FF4000">WARNING: THIS VERSION HAS SERIOUS BUGS! <i>NEVER</i> USE!</h4>
-  v1.2.1 is a hotfix. Changes are listed above.
-</details>
-<!--><![endif]-->
   
 ## 1.1.1
 #### _Release date: 2020-7-20_
