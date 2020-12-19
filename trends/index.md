@@ -1,3 +1,7 @@
+---
+permalink: /trends/index.html
+---
+
 # Trends
   
   
