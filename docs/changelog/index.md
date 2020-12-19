@@ -23,3 +23,5 @@
 ### 1.0.0
 #### _Release date: 2020-7-17_
 First release.
+
+<li class="fork"><a href="https://github.com/wyz23x2/wyz23x2.github.io">View On GitHub</a></li>
