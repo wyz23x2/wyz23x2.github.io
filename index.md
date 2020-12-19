@@ -1,5 +1,5 @@
 # Relationlist Home Page (Unfinished)
 ### A great package.
   
-## [Documentation](/docs/index.md)
-## [Trends](/trends/index.md)
+## [Documentation&ensp;»](/docs/index.md)
+## [Trends&ensp;»](/trends/index.md)
