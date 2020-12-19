@@ -1,3 +1,7 @@
+---
+permalink: /docs/index.html
+---
+
 # Relationlist Documentation
 <br />
   
