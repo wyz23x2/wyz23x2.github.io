@@ -14,7 +14,7 @@ permalink: /docs/changelog/index.html
 <details>
   <summary>1.2.0</summary>
   <h4><i>Release date: 2020-12-12</i></h4>
-  <h4 style="color:yellow;background:red">WARNING: THIS VERSION HAS SERIOUS BUGS! <i>NEVER</i> USE!</h4>
+  <h4 style="color:#FF4000">WARNING: THIS VERSION HAS SERIOUS BUGS! <i>NEVER</i> USE!</h4>
   v1.2.1 is a hotfix. Changes are listed above.
 </details>
 <!--><![endif]-->
