@@ -1,4 +1,3 @@
-# Relationlist Home Page
 ## Relationlist Documentation
   
 ## Table of Contents
