@@ -24,5 +24,5 @@
 #### _Release date: 2020-7-17_
 First release.
 
-<a href="..">← Documentation</a>
-<a href="/">← Home</a>
+[← Documentation](..)  
+[← Home](/)
