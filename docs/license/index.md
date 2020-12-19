@@ -1,3 +1,7 @@
+---
+permalink: /docs/license/index.html
+---
+
 # Relationlist License
   <br />
 Relationlist is licensed under the Mozilla Public License (MPL) 2.0.  
