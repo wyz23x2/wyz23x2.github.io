@@ -28,5 +28,5 @@ permalink: /docs/changelog.html
 #### _Release date: 2020-7-17_
 First release.
 
-[← Documentation](..)  
+[← Documentation](index.html)  
 [← Home](/)
