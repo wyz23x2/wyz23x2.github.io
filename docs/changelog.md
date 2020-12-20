@@ -1,5 +1,5 @@
 ---
-permalink: /docs/changelog/index.html
+permalink: /docs/changelog.html
 ---
 
 # Changelog
