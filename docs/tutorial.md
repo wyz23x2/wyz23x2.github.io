@@ -41,6 +41,6 @@ RelationList(1, 2, 3)
 Congratulations, you have successfully created a ``RelationList``!
 ## <a id="adddelete">Adding and Deleting</a>
   
-[&emsp;&nbsp;API Reference →](tutorial.html)  
+[&emsp;&ensp;API Reference →](tutorial.html)  
 [← Documentation](index.html)  
 [← Home](/)
