@@ -14,7 +14,7 @@ permalink: /docs/index.html
 #### &emsp;&emsp;[· Generators and Copying](tutorial.html/#gencopy)
 #### &emsp;&emsp;[· Context Managers](tutorial.html/#context)
 #### &emsp;&emsp;[· relationlist.ver](tutorial.html/#ver)
-### &emsp;[3. API Reference](apiref.html)
+### &emsp;[3. API Reference](# "Unfinished")<!--(apiref.html)-->
 ### &emsp;[4. Changelog](changelog.html)
 ### &emsp;[5. License](license)
   
