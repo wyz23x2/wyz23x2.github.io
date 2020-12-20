@@ -3,7 +3,6 @@ permalink: /docs/index.html
 ---
 
 # Relationlist Documentation
-<br />
   
 ## Table of Contents
 ### &emsp;[1. Introduction](#intro)
@@ -24,5 +23,5 @@ What is ``relationlist``?
 Sometimes we want more from list. Say you have elements 1 and 4. You want to assign 5 to the values, but don’t want a ``dict`` or something like ``[(1, 4, 5)]``.
 relationlist is here to help you.  
   
-[&emsp;Tutorial →](tutorial.html)  
+[**&emsp;&nbsp;Tutorial →**](tutorial.html)  
 [← Home](/)
