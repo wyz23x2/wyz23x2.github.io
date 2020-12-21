@@ -40,6 +40,20 @@ RelationList(1, 2, 3)
 ```
 Congratulations, you have successfully created a ``RelationList``!
 ## <a id="adddelete">Adding and Deleting</a>
+You can append an element by ``rlis.add(...)``:
+```python
+>>> rlis.add(5)
+>>> rlis
+RelationList(1, 2, 3, 5)
+```
+Use the ``index`` parameter to specify the index:
+```python
+>>> rlis.add(0, 0)
+>>> rlis
+RelationList(0, 1, 2, 3, 5)
+>>> rlis.add(4, index=-2)
+RelationList(0, 1, 2, 3, 4, 5)
+```
   
 <!--[&emsp;&nbsp;API Reference →](apiref.html)  -->
 [← Documentation](index.html)  
